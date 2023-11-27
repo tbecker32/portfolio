@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "images/thomasbecker.jpg"
+profile_picture = "https://github.com/tbecker32/portfolio/blob/Images/thomasbecker.jpg"
 about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech looking for entry-level internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
 
 
@@ -33,8 +33,8 @@ course_data = {
 experience_data = {
     "Seasonal Intern / Teller I: United Bank": ("May 2022 – Present", ["- Provide accurate teller services with stellar customer service for upwards of 25 customers an hour",
                             "- Keep a balanced teller drawer while handling transactions including deposits, withdrawls, loan payments, and more",
-                            "- Received a performance-based raise with the new calendar year"],"images/UB.png"),
-    "Takeout Specialist, Host: Red Lobster":("May 2022 – Aug 2023", ["- Multi-tasked working on individual duties and as a team to keep the restaurant running efficiently"],"images/RL.jpg")
+                            "- Received a performance-based raise with the new calendar year"],"https://github.com/tbecker32/portfolio/blob/Images/UB.png"),
+    "Takeout Specialist, Host: Red Lobster":("May 2022 – Aug 2023", ["- Multi-tasked working on individual duties and as a team to keep the restaurant running efficiently"],"https://github.com/tbecker32/portfolio/blob/Images/RL.jpg")
 
 }
 
@@ -67,9 +67,9 @@ communication_data = [
 ]
 
 leadership_data = {
-    "Co-Founder and President of Northgate Book Club": ("2019 – 2023", ["- Organized meetings, led discussions, and finalized book selections"],"images/books.png"),
+    "Co-Founder and President of Northgate Book Club": ("2019 – 2023", ["- Organized meetings, led discussions, and finalized book selections"],"https://github.com/tbecker32/portfolio/blob/Images/books.png"),
     "Academic Bowl Team": ("2021, 2023", ["- Captain of JV Team (2021) and Co-Captain of Varsity Team (2023), while competing 2019 – 2023",
-                                          "- Competed individually, gathered team input, and decided final team answers"], "images/buzzer.png")
+                                          "- Competed individually, gathered team input, and decided final team answers"], "https://github.com/tbecker32/portfolio/blob/Images/buzzer.png")
 
 }
 activity_data={
