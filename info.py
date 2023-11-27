@@ -1,10 +1,8 @@
 
 #This File will contain the information to be displayed in your portfolio
 
-#CHANGE BELOW
-profile_picture = "https://github.com/tbecker32/portfolio/blob/Images/thomasbecker.jpg"
+profile_picture = "thomasbecker.jpg"
 about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech looking for entry-level internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
-
 
 
 linkedin_image_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
@@ -33,13 +31,15 @@ course_data = {
 experience_data = {
     "Seasonal Intern / Teller I: United Bank": ("May 2022 – Present", ["- Provide accurate teller services with stellar customer service for upwards of 25 customers an hour",
                             "- Keep a balanced teller drawer while handling transactions including deposits, withdrawls, loan payments, and more",
-                            "- Received a performance-based raise with the new calendar year"],"https://github.com/tbecker32/portfolio/blob/Images/UB.png"),
-    "Takeout Specialist, Host: Red Lobster":("May 2022 – Aug 2023", ["- Multi-tasked working on individual duties and as a team to keep the restaurant running efficiently"],"https://github.com/tbecker32/portfolio/blob/Images/RL.jpg")
+                            "- Received a performance-based raise with the new calendar year"],"UB.png"),
+    "Takeout Specialist, Host: Red Lobster":("May 2022 – Aug 2023", ["- Multi-tasked working on individual duties and as a team to keep the restaurant running efficiently"],"RL.jpg")
 
 }
 
 projects_data = {
-    "Matrix Row Reducer": ["- Built an app using streamlit to row reduce a matrix of any size"],
+    "Matrix Row Reducer": ["- Built an app using Streamlit (a Python extension) to row reduce a matrix of any size",
+                           "- Accessible at: "
+                           "https://matrix-reducer.streamlit.app/"],
     "The Lit Lancet": ["- Designed and printed a 3D model to hold a lancet and finger flashlight for Type 1 Diabetics to test blood glucose at night",
                        "- Invited to compete at the 2020 Coweta County Shark Tank and as a state qualifier for the Georgia Tech InVenture K12 Prize"],
 }
@@ -56,7 +56,7 @@ programming_icons = {
     "Java": "☕",
     "SQL": "🔍",
 }
-spoken_icons = {"French": "🇫🇷",
+spoken_icons = {"French": "🇫🇷", #unused
     "English": "🇬🇧",
     "Spanish":"🇪🇸"
 }
@@ -67,9 +67,9 @@ communication_data = [
 ]
 
 leadership_data = {
-    "Co-Founder and President of Northgate Book Club": ("2019 – 2023", ["- Organized meetings, led discussions, and finalized book selections"],"https://github.com/tbecker32/portfolio/blob/Images/books.png"),
+    "Co-Founder and President of Northgate Book Club": ("2019 – 2023", ["- Organized meetings, led discussions, and finalized book selections"],"books.png"),
     "Academic Bowl Team": ("2021, 2023", ["- Captain of JV Team (2021) and Co-Captain of Varsity Team (2023), while competing 2019 – 2023",
-                                          "- Competed individually, gathered team input, and decided final team answers"], "https://github.com/tbecker32/portfolio/blob/Images/buzzer.png")
+                                          "- Competed individually, gathered team input, and decided final team answers"], "buzzer.png")
 
 }
 activity_data={
