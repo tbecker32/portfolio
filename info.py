@@ -49,6 +49,7 @@ programming_data = {
     "Python": 75,
     "Java": 66,
     "SQL": 40,
+    "C": 40
 }
 
 
