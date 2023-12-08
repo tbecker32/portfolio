@@ -1,5 +1,5 @@
 
-#This File will contain the information to be displayed in your portfolio
+#This File contains the information to be displayed in my portfolio
 
 profile_picture = "thomasbecker.jpg"
 about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech looking for entry-level internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
@@ -46,10 +46,10 @@ projects_data = {
 }
 
 programming_data = {
-    "Python": 75,
+    "Python": 80,
     "Java": 66,
     "SQL": 40,
-    "C": 40
+    "C": 33
 }
 
 
@@ -57,6 +57,7 @@ programming_icons = {
     "Python": "🐍",
     "Java": "☕",
     "SQL": "🔍",
+    "C": "🔍"
 }
 spoken_icons = {"French": "🇫🇷", #unused
     "English": "🇬🇧",
