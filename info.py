@@ -23,10 +23,11 @@ education_data = {
     'GPA': '4.0'
 }
 course_data = {
-    "code":["CS 1301", "CS 1331", "MATH 1554"], 
-    "names":["Intro to Computer Science", "Intro to Object-Oriented Programming", "Linear Algebra"], 
-    "semester_taken":["1st", "1st", "1st"],
-    "skills":["Basics of Python, including File I/O, APIs, and OOP", "A comprehensive breakdown of OOP in Java, including File I/O, Sorting, and GUIs", "Evaluated mathematical expressions to compute quantities that deal with linear systems and eigenvalue problems."],
+    "code":["CS 1301", "CS 1331", "MATH 1554", "CS 1332", "CS 2110", "CS 2050"], 
+    "names":["Intro to Computer Science", "Intro to Object-Oriented Programming", "Linear Algebra", "Data Structures and Algorithms", "Computer Organization and Programming", "Discrete Mathematics for Computer Science"], 
+    "semester_taken":["1st", "1st", "1st", "2nd", "2nd", "2nd"],
+    "skills":["Basics of Python, including File I/O, APIs, and OOP", "A comprehensive breakdown of OOP in Java, including File I/O, Sorting, and GUIs", "Evaluated mathematical expressions to compute quantities that deal with linear systems and eigenvalue problems.",
+              "Computer data structures and algorithms, with a focus in application development", "An introduction to basic computer hardware, machine language, assembly language, and C programming", "Correctness of algorithms over discrete structures, complexity, and computability"],
     }
 experience_data = {
     "Seasonal Intern / Teller I: United Bank": ("May 2022 – Present", ["- Provide accurate teller services with stellar customer service for upwards of 25 customers an hour",
