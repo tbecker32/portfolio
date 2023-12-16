@@ -46,17 +46,17 @@ projects_data = {
 }
 
 programming_data = {
-    "Python": 80,
-    "Java": 66,
-    "SQL": 40,
+    "Python": 85,
+    "SQL": 80,
+    "Java": 75,
     "C": 33
 }
 
 
 programming_icons = {
     "Python": "🐍",
-    "Java": "☕",
     "SQL": "🔍",
+    "Java": "☕",
     "C": "🔍"
 }
 spoken_icons = {"French": "🇫🇷", #unused
