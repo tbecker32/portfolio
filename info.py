@@ -2,7 +2,7 @@
 #This File contains the information to be displayed in my portfolio
 
 profile_picture = "thomasbecker.jpg"
-about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech looking for entry-level internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
+about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech (but a Junior by credits as of Summer 2024!) looking for entry-level internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
 
 
 linkedin_image_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
