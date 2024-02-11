@@ -2,7 +2,7 @@
 #This File contains the information to be displayed in my portfolio
 
 profile_picture = "thomasbecker.jpg"
-about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech (but a Junior by credits as of Summer 2024!) looking for entry-level internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
+about_me = "I'm Thomas Becker! I'm a first-year Computer Science major at Georgia Tech (but a Junior by credits as of Summer 2024!) looking for internships or co-ops so I can pursue my love for programming and build computer science experience. I'm pursuing concentrations in Systems & Architecture and Information Internetworks, so things like data analytics and systems engineering excite me."
 
 
 linkedin_image_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
@@ -59,7 +59,7 @@ programming_icons = {
     "Java": "☕",
     "C": "🔍"
 }
-spoken_icons = {"French": "🇫🇷", #unused
+spoken_icons = {"French": "🇫🇷", # unused
     "English": "🇬🇧",
     "Spanish":"🇪🇸"
 }
@@ -72,12 +72,13 @@ communication_data = [
 leadership_data = {
     "Co-Founder and President of Northgate Book Club": ("2019 – 2023", ["- Organized meetings, led discussions, and finalized book selections"],"books.png"),
     "Academic Bowl Team": ("2021, 2023", ["- Captain of JV Team (2021) and Co-Captain of Varsity Team (2023), while competing 2019 – 2023",
-                                          "- Competed individually, gathered team input, and decided final team answers"], "buzzer.png")
+                                          "- Competed individually, gathered team input, and decided final team answers"], "buzzer.png"),
+    "The Diabetes Link": ("2023 –", ["- Ambassador for Type 1 Diabetes awareness in the Georgia Tech community"], "tdl.png")
 
 }
 activity_data={
     "National Honor Society": "2021 – 2023", "National Beta Club": "2020 – 2023"
 }
 interests_data=[
-    "- Swimming", "- Racquetball", "- Reading", "- Traveling", "- Trying new foods", "- Trivia", "- Tabletop games"
+    "- Traveling", "- Swimming", "- Racquetball", "- Reading", "- Trying new foods", "- Trivia", "- Tabletop games"
 ]
